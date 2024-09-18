@@ -23,7 +23,7 @@ GET http://localhost:4000/
 Content-Type: application/json
 
 {
-    "msg": "sample request to the mainline proxu"
+    "msg": "sample request to the mainline proxy"
 }
 ```
 
