@@ -1,0 +1,13 @@
+GET http://localhost:3000/
+Content-Type: application/json
+
+{
+    "msg": "backdore to the scrambling server"
+}
+###
+GET http://localhost:4000/
+Content-Type: application/json
+
+{
+    "msg": "sample request to the mainline"
+}
