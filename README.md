@@ -28,7 +28,7 @@ Content-Type: application/json
 ```
 
 ### Running the Servers
-
+run * `npm i` to setup the modules automatically
 To run the servers, execute the following commands in separate terminals:
 
 * `node server.js` to start the backend server
